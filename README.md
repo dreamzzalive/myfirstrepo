@@ -1,2 +1,2 @@
 # myfirstrepo
-Test GIT
+Testing GIT with my new repo
